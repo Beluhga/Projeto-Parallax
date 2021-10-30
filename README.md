@@ -1,6 +1,6 @@
 # Projeto-Parallax
 
-Ulizando:
+Utilizando:
 
 JS
 
