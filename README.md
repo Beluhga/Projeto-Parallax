@@ -8,7 +8,7 @@ jQuery
 
 Parallax
 
-
+Projeto  para fazer as imagens  moverem junto com a barra de rolagem da interface 
 
 https://parallax-modelo.netlify.app/
 
